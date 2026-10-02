@@ -1,0 +1,7 @@
+Arquivos recuperados do site público em 02/10/2026.
+Extraia este ZIP e envie o conteúdo diretamente à raiz do repositório GitHub.
+Vercel: Framework Other; Root Directory vazio se estes arquivos estiverem na raiz; Build Command vazio; Output Directory .
+Para abrir o cardápio, utilize /mi_marmita.
+As importações diretas dos módulos JavaScript foram verificadas. A renderização e os pedidos não foram validados na Vercel.
+Esta é uma cópia do frontend: os dados e operações continuam dependendo da API original integracao.cardapioweb.com e de suas permissões.
+Não inclui backend, banco de dados nem acesso administrativo.
